@@ -1,0 +1,2 @@
+# Standard library dependencies only for Edge Simulation
+# (No external pip packages required for this mock)
